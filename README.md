@@ -39,4 +39,13 @@ Hasta donde se llegara?
 
 Durante 
 
+
+
+tablas de clasificacion de riesgos
+Indices de gestion de riesgos - Metricas
+Generar dashboards de analisis
+
+
+
+
 BIBLIOGRAFIA
