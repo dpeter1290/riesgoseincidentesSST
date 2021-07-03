@@ -31,7 +31,6 @@ Porque se quiere desarrollar?
 entre menos accidentes tenga es menos dinero y mayor confianza o credibilidad
 mejor calidad
 
-
 Mision
 Construir una Web App que permita gestionar de manera rapida y eficiente los reportes de riesgos e incidentes al interior 
 
