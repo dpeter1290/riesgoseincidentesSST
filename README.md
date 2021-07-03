@@ -26,9 +26,14 @@ Scrum - Agilismmo
 
 ALCANCE
   
+Introduccion
+Porque se quiere desarrollar?
 
 Mision
-Construir una Web App que permita gestionar de manera rapida y eficiente los reportes de riesgos e incidentes al interior de una compañia
+Construir una Web App que permita gestionar de manera rapida y eficiente los reportes de riesgos e incidentes al interior 
+
+Hasta donde se llegara?
+
 
 Durante 
 
