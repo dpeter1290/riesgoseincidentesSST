@@ -25,5 +25,10 @@ METODOLOGIA DE DESARROLLO
 Scrum - Agilismmo
 
 ALCANCE
+  
+
+Mision
+Construir una Web App que permita gestionar de manera rapida y eficiente los reportes de riesgos e incidentes al interior de una compañia
+
 Durante 
 
