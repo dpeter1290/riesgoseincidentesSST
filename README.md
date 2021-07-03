@@ -26,7 +26,7 @@ Scrum - Agilismmo
 
 ALCANCE
   
-Introduccion
+Justificación
 Porque se quiere desarrollar?
 entre menos accidentes tenga es menos dinero y mayor confianza o credibilidad
 mejor calidad
@@ -39,3 +39,4 @@ Hasta donde se llegara?
 
 Durante 
 
+BIBLIOGRAFIA
