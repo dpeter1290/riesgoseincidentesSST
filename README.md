@@ -46,6 +46,6 @@ Indices de gestion de riesgos - Metricas
 Generar dashboards de analisis
 
 generar status de apertura - notificar a encargado - action to take - tiempo de respuesta - generar status de cierre
-
+Tiempo de trabajo de empleado como reporte 
 
 BIBLIOGRAFIA
