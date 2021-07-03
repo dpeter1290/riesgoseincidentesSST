@@ -11,7 +11,6 @@ Yesid Linares - Scrum Team
 Mauricio Gonzalez - Scrum Team
 Dennis Rodriguez - Scrum Master
 
-
 TECNOLOGIAS
 FrontEnd - Angular
 BackEnd - NodeJS
@@ -22,8 +21,9 @@ DURACION
 4 Sprints
 20 Daily
 
+METODOLOGIA DE DESARROLLO 
+Scrum - Agilismmo
 
 ALCANCE
 Durante 
-
 
