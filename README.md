@@ -13,14 +13,14 @@ Yesid Linares.
 Mauricio Gonzalez,
 
 TECNOLOGIAS
-FrontEnd - Angular
-BackEnd - NodeJS
-Gestor de Base de Datos - MongoDB
+FrontEnd: Angular.
+BackEnd: NodeJS
+Gestor de Base de Datos: MongoDB.
 
 DURACION
-4 Semanas 
-4 Sprints
-20 Daily
+4 Semanas.
+4 Sprints.
+20 Daily.
 
 METODOLOGIA DE DESARROLLO 
 Scrum - Agilismmo
@@ -34,7 +34,7 @@ Debido a la actual normativa en Seguridad y Salud para el Trabajo estipulada por
 Enlace de Historias de Usuario:
 https://sharing.clickup.com/b/h/5-9349259-2/b66c8cbb82cade7
 Enlace de Mockups:
-xxxxxxx
+https://www.figma.com/file/KbQLFjdUTrUDRqBA2HIhOS/MOCKUP-ALIANZA-TEAM?node-id=0%3A1
 
 BIBLIOGRAFIA
 - Decreto 1043 de 2014. Decreto del Sistema de Gestión de Seguridad y Salud - MinTrabajo Colombia Enlace: https://cutt.ly/TmxdHwE
