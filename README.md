@@ -32,7 +32,7 @@ Justificación
 Debido a la actual normativa en Seguridad y Salud para el Trabajo estipulada por el gobierno nacional en cabeza del Ministerio del Trabajo de Colombia, "en el decreto 1072 del 2015 se unifican todos los decretos, leyes y normas en materia de seguridad y salud laboral que todas las empresas sin importar su indole privada o pública, debe implementar un sistema de información que esté en concordancia con la resolución 0312 del 2019". Es por ello, que en las empresas se requiere un sistema de información que permita mantener una trazababilidad en el registro de incidentes laborales, lo que permitirá determinar las debilidades y eficiencias dentro de la organización en cada uno de las áreas involucradas. 
 
 Enlace de Historias de Usuario:
-xxxxxx
+https://sharing.clickup.com/b/h/5-9349259-2/b66c8cbb82cade7
 Enlace de Mockups:
 xxxxxxx
 
