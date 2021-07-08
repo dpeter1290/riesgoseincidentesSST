@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-08T20:32:46.895Z" agent="5.0 (Windows)" etag="1O-ukv3ym64aH-ZRWnxl" version="14.8.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-07-08T20:34:15.315Z" agent="5.0 (Windows)" etag="N_FSV-TYZDW2Ba2qR5An" version="14.8.5" type="github" pages="6">
   <diagram id="puwgg1_YbBOaLKqBL6O8" name="Version Unificada">
     <mxGraphModel dx="1038" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1060,7 +1060,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P3H8mkEF32GSRWloDiVR-8" value="Incidentes" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="JI_1XMnJDxapmMX2SzBe-1">
-          <mxGeometry x="530" y="-340" width="160" height="294" as="geometry">
+          <mxGeometry x="530" y="-340" width="160" height="320" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1088,14 +1088,17 @@
         <mxCell id="DnIExa6M3gyJFIXh2Anh-10" value="Riezgo: String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="P3H8mkEF32GSRWloDiVR-8">
           <mxGeometry y="208" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="P3H8mkEF32GSRWloDiVR-15" value="Prioridad: String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="P3H8mkEF32GSRWloDiVR-8">
+        <mxCell id="4AKO9ioJx8aFsp8BCH5u-4" value="Prioridad: String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="P3H8mkEF32GSRWloDiVR-8">
           <mxGeometry y="234" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="4AKO9ioJx8aFsp8BCH5u-2" value="AccionesTomadas: String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="P3H8mkEF32GSRWloDiVR-8">
+        <mxCell id="P3H8mkEF32GSRWloDiVR-15" value="Adjunto: ??" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="P3H8mkEF32GSRWloDiVR-8">
           <mxGeometry y="260" width="160" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="4AKO9ioJx8aFsp8BCH5u-2" value="AccionesTomadas: String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="P3H8mkEF32GSRWloDiVR-8">
+          <mxGeometry y="286" width="160" height="26" as="geometry" />
+        </mxCell>
         <mxCell id="P3H8mkEF32GSRWloDiVR-16" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="P3H8mkEF32GSRWloDiVR-8">
-          <mxGeometry y="286" width="160" height="8" as="geometry" />
+          <mxGeometry y="312" width="160" height="8" as="geometry" />
         </mxCell>
         <mxCell id="DnIExa6M3gyJFIXh2Anh-1" value="Riezgos" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="JI_1XMnJDxapmMX2SzBe-1">
           <mxGeometry x="530" y="-10" width="160" height="170" as="geometry">
