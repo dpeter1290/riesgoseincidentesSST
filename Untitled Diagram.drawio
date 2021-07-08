@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-08T21:34:55.673Z" agent="5.0 (Windows)" etag="nDIzNdZbke8Prgopovam" version="14.8.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-07-08T21:39:02.142Z" agent="5.0 (Windows)" etag="bRB-n3qCgQQ6EoVVK0A_" version="14.8.5" type="github" pages="6">
   <diagram id="puwgg1_YbBOaLKqBL6O8" name="Version Unificada">
     <mxGraphModel dx="1108" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -233,7 +233,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bMNiCX3wLqqEnDDIl5Ci-0" value="ADMI" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="VIY-bHLFD8mlp7syhGeg-1">
-          <mxGeometry x="90" y="540" width="160" height="398" as="geometry">
+          <mxGeometry x="90" y="540" width="160" height="260" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -265,7 +265,7 @@
           <mxGeometry y="216" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="bMNiCX3wLqqEnDDIl5Ci-16" value="SUPERVISOR" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="VIY-bHLFD8mlp7syhGeg-1">
-          <mxGeometry x="310" y="620" width="160" height="320" as="geometry">
+          <mxGeometry x="310" y="620" width="160" height="180" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -288,7 +288,7 @@
           <mxGeometry y="138" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="bMNiCX3wLqqEnDDIl5Ci-29" value="HSE" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="VIY-bHLFD8mlp7syhGeg-1">
-          <mxGeometry x="560" y="620" width="160" height="424" as="geometry">
+          <mxGeometry x="560" y="620" width="160" height="260" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -320,7 +320,7 @@
           <mxGeometry y="216" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="bMNiCX3wLqqEnDDIl5Ci-46" value="EMPLOYEE" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="VIY-bHLFD8mlp7syhGeg-1">
-          <mxGeometry x="770" y="540" width="160" height="300" as="geometry">
+          <mxGeometry x="770" y="540" width="160" height="140" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1282,7 +1282,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YV9tAqxd7MoPxeOXrbAP" name="Mauricio González">
-    <mxGraphModel dx="868" dy="1637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="1637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="JI_1XMnJDxapmMX2SzBe-0" />
         <mxCell id="JI_1XMnJDxapmMX2SzBe-1" parent="JI_1XMnJDxapmMX2SzBe-0" />
