@@ -40,3 +40,4 @@ BIBLIOGRAFIA
 - Decreto 1043 de 2014. Decreto del Sistema de Gestión de Seguridad y Salud - MinTrabajo Colombia Enlace: https://cutt.ly/TmxdHwE
 - Resolucion 0312 de 2019 del MinTrabajo Colombia. Enlace: https://cutt.ly/amxddxX
 - Piñeros Martinez, L. V., & Romero Herrera, N. D. (2019). Sistema de información para la trazabilidad de accidentes de trabajo, enfermedades laborales y ausentismo, en la    oficina de seguridad y salud en el trabajo de la universidad de cundinamarca sede fusagasugá (Doctoral dissertation). Enlace: https://cutt.ly/BmxfiFD
+Esta es una prueba para repositorio compartido
