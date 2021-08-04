@@ -42,3 +42,5 @@ BIBLIOGRAFIA
 - Piñeros Martinez, L. V., & Romero Herrera, N. D. (2019). Sistema de información para la trazabilidad de accidentes de trabajo, enfermedades laborales y ausentismo, en la    oficina de seguridad y salud en el trabajo de la universidad de cundinamarca sede fusagasugá (Doctoral dissertation). Enlace: https://cutt.ly/BmxfiFD
 Esta es una prueba para repositorio compartido 
 segundo commit desde visual
+
+Prueba commit desde Linux.
